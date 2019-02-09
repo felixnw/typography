@@ -2,11 +2,12 @@
 
 Starter files for intro web design/development
 
-STUDENTS: edit this file. Add text that describes your project. Include your name, web address, code/image citations, and any notes.
+Created by: Felix
+This is a partial remake of the EFF Surveillance Self Defense site for GDES-315.
 
-Text from: https://ssd.eff.org/en
-EFF logo from: eff.org
-Icons from: https://material.io/tools/icons
+Text from EFF Surveillance Self-Defense Project (https://ssd.eff.org/en)
+EFF Logo from EFF (https://www.eff.org/press/logos)
+Lock icons from Google Material Icons (https://material.io/tools/icons/?style=baseline)
 Image from eff.org
 Video from EFF
 Live at: felixnw.github.io/typography
@@ -26,7 +27,3 @@ Original project compiled by [David Ramos](http://imaginaryterrain.com).
 The code structure is designed for clarity rather than for browser performance. (Notably, we break CSS out into several files, to help keep code organized.)
 
 This project includes elements from HTML5 Boilerplate (see css/vendor/h5bp_README.md for more).
-
-Text from EFF Surveillance Self-Defense Project (https://ssd.eff.org/en)
-EFF Logo from EFF (https://www.eff.org/press/logos)
-Lock icons from Google Material Icons (https://material.io/tools/icons/?style=baseline)
